@@ -1,4 +1,4 @@
-# Programming for Data Analytics Project - Winter 2025/26
+# Programming for Data Analytics Project
 
 This repository contains my project for the programming for data analytics module
 
@@ -9,7 +9,7 @@ https://www.dreamstime.com/brain-data-analysis-visual-representation-human-integ
 
 Main Objectives:  
 
-who_eu_deaths = https://gateway.euro.who.int/en/indicators/hfamdb_761-deaths-suicide-and-intentional-self-harm/#id=31291  
-eu_pop_2012_2022 =  https://ec.europa.eu/eurostat/databrowser/view/demo_pjan/default/table
-irishdata_year_age_sex_cso =  
-irishdata_year_counties_sex_cso = 
+- who_eu_deaths - Data from 1969-2022 - @ https://gateway.euro.who.int/en/indicators/hfamdb_761-deaths-suicide-and-intentional-self-harm/#id=31291  
+- eu_pop_2012_2022 @  https://ec.europa.eu/eurostat/databrowser/view/demo_pjan/default/table
+- irishdata_year_age_sex_cso - Data from 2012-22 - Dataset name: VSA35 @ https://data.cso.ie/#
+- irishdata_year_counties_sex_cso - Data from 2015-22 - Dataset name: VSA112 @ https://data.cso.ie/#
