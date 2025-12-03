@@ -1,11 +1,11 @@
-# Programming for Data Analytics Project
+# Programming for Data Analytics Project 2025
 
-This repository contains my project for the programming for data analytics module
+# Suicide Mortality in Ireland: Demographic Trends and EU Comparison
 
 ![Alt text](images/brain-data-analysis-visual-representation.png)  
 reference:
 https://www.dreamstime.com/brain-data-analysis-visual-representation-human-integrated-various-graphs-symbolizing-intelligence-image335211465  
-# Suicide Mortality in Ireland: Demographic Trends and EU Comparison (2012–2022)
+
 
 Main Objectives:  
 
