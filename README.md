@@ -2,10 +2,7 @@
 
 # Suicide Mortality in Ireland: Demographic Trends and EU Comparison
 
-![Alt text](images/brain-data-analysis-visual-representation.png)  
-reference:
-https://www.dreamstime.com/brain-data-analysis-visual-representation-human-integrated-various-graphs-symbolizing-intelligence-image335211465  
-
+![Alt text](images/suicideprevention.png)  
 
 Main Objectives:  
 
