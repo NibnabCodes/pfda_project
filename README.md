@@ -1,12 +1,19 @@
-# Programming for Data Analytics Project 2025
-
-# Suicide Mortality in Ireland: Demographic Trends and EU Comparison
+# Programming for Data Analytics Project 2025-2026
 
 ![Alt text](images/suicideprevention.png)  
 
-Main Objectives:  
+# **Mapping the Crisis: Demographic Trends in Suicide Mortality (Ireland and EU)**
 
-- who_eu_deaths - Data from 1969-2022 - @ https://gateway.euro.who.int/en/indicators/hfamdb_761-deaths-suicide-and-intentional-self-harm/#id=31291  
-- eu_pop_2012_2022 @  https://ec.europa.eu/eurostat/databrowser/view/demo_pjan/default/table
-- irishdata_year_age_sex_cso - Data from 2012-22 - Dataset name: VSA35 @ https://data.cso.ie/#
-- irishdata_year_counties_sex_cso - Data from 2015-22 - Dataset name: VSA112 @ https://data.cso.ie/#
+## Overview ✨
+
+## About this repository 📂
+
+## Dependencies & Technologies 🛠️
+
+## Environment Setup ⚙️
+
+## How to Download Repository 📥
+
+## How to Run the Code ▶️
+
+## References 📖
