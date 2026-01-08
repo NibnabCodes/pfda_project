@@ -2,7 +2,7 @@
 
 ![Alt text](images/suicideprevention.png)  
 
-# **Mapping the Crisis: Demographic Trends in Suicide Mortality (Ireland and EU)**
+# *Mapping the Crisis: Demographic Trends in Suicide Mortality (Ireland and EU)*
 
 ## Project Overview ✨  
 
