@@ -33,7 +33,6 @@ See *analysis.ipynb* for further information on the following libraries
 
 - Python==3.12.7
 - Matplotlib.pyplot==3.9.2
-- seaborn==0.13.2
 - pandas==2.2.2
 - NumPy==2.3.4
 
